@@ -1,0 +1,6 @@
+{
+  "name": "VoiceAI Platform",
+  "description": "A polished, product-first homepage for an AI voice platform, featuring realistic voice generation, text-to-speech, and enterprise-ready capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
